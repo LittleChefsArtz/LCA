@@ -1,5 +1,13 @@
-PresenterID,Name,Surname,City,CityID,Suburb,SuburbID,School,SchoolID,email,PresenterContactNo
-1200,Hermien,Ras,Pretoria,1,Equestria,1,Kids Academy,1,littlechefsartz@gmail.com,0845573614
-1200,Hermien,Ras,Pretoria,1,Equestria,1,Mini Me,2,littlechefsartz@gmail.com,0845573615
-3523,Kaylien,Wessels,Pretoria,1,Moreleta,2,Montesori,3,littlechefsartz@gmail.com,0721234567
-3523,Kaylien,Wessels,Pretoria,1,Fearie Glen,3,Kids Academy,1,littlechefsartz@gmail.com,0721234568
+PresenterID,Name,Surname,City,CityID,Suburb,SuburbID,School,SchoolID,email,PresenterContactNo,Monthly Fee,Registration Fee Course 1,Registration Fee Course 1,Banking Details1,Banking Details2,Banking Details3,Banking Details4,Banking Details5,
+1200,Hermien,Ras,Pretoria,1,Equestria,1,Kids Academy,1,littlechefsartz@gmail.com,0845573614,330,250,130,H Ras,FNB,Cheque Account,Account Number : 62118235185,Branch : 250655,Ref : Name and Surname of child
+1200,Hermien,Ras,Pretoria,1,Equestria,1,Mini Me,2,littlechefsartz@gmail.com,0845573614,330,250,130,H Ras,FNB,Cheque Account,Account Number : 62118235185,Branch : 250656,Ref : Name and Surname of child
+1200,Hermien,Ras,Pretoria,1,Equestria,1,Super kidz,3,littlechefsartz@gmail.com,0845573614,330,250,130,H Ras,FNB,Cheque Account,Account Number : 62118235185,Branch : 250657,Ref : Name and Surname of child
+1200,Hermien,Ras,Pretoria,1,Garsfontein,2,Kids Academy,4,littlechefsartz@gmail.com,0845573614,330,250,130,H Ras,FNB,Cheque Account,Account Number : 62118235185,Branch : 250658,Ref : Name and Surname of child
+3523,Khaline,Wessels,Pretoria,1,Monument Park,1,Monument Park,1,khaline@axemail.co.za,0824978050,350,220,100,,,,,,
+3523,Khaline,Wessels,Pretoria,1,Moreleta,2,Little Ashford Primary,2,khaline@axemail.co.za,0824978050,350,220,100,,,,,,
+3523,Khaline,Wessels,Pretoria,1,Monument Park,1,Monies Voorskool,3,khaline@axemail.co.za,0824978050,350,220,100,,,,,,
+3523,Khaline,Wessels,Pretoria,1,Grootfontein,4,Kieriebeentjies,4,khaline@axemail.co.za,0824978050,350,220,100,,,,,,
+4234,Jeanine,Minne,Pretoria,1,Shere,1,Tygie Land,1,jeanine@jjminne.co.za,0824654397,320,220,100,,,,,,
+4234,Jeanine,Minne,Pretoria,1,Shere,1,Tiertjies Kleuterskool,2,jeanine@jjminne.co.za,0824654397,320,220,100,,,,,,
+4234,Jeanine,Minne,Pretoria,1,Shere,1,Pikkewyne Speelgroepie,3,jeanine@jjminne.co.za,0824654397,320,220,100,,,,,,
+4234,Jeanine,Minne,Pretoria,1,Garsfontein,2,Kinderdorpie,4,jeanine@jjminne.co.za,0824654397,320,220,100,,,,,,
